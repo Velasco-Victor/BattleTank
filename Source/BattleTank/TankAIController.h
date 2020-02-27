@@ -25,6 +25,8 @@ class BATTLETANK_API ATankAIController : public AAIController
 
 	ATank* GetPlayerTank() const;
 
+	// TEST
+
 	
 	
 };
